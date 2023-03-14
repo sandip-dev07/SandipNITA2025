@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Sandip Sarkar
 
   <h2 size="20">Full Stack Web Developer</h2>
-    <p>I am an undergraduate student at NIT Agartala</p>
+    <p></p>
     <h2 size="20">Skills</h2>
     <a href="URL_REDIRECT" target="blank">
       <img
@@ -91,6 +91,26 @@
         width="50"
       />
     </a>
+
+
+ <h2 size="20">Socials</h2>
+  <a href="https://www.linkedin.com/in/sarkar-sandip/" target="blank">
+      <img
+        src="https://img.icons8.com/color/48/null/linkedin.png"
+        align="center"
+        height="50"
+        width="50"
+      />
+    </a>
+    <a href="URL_REDIRECT" target="blank">
+      <img
+        src="https://img.icons8.com/fluency/48/null/instagram-new.png"
+        align="center"
+        height="50"
+        width="50"
+      />
+    </a>
+
 
 
 <!--
