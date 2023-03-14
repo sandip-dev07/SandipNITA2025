@@ -43,7 +43,7 @@
         width="50"
       />
     </a>
-    <a href="URL_REDIRECT" target="blank">
+    <a href="#" target="blank">
       <img
         src="https://img.icons8.com/plasticine/50/null/react.png"
         align="center"
@@ -102,9 +102,17 @@
         width="50"
       />
     </a>
-    <a href="URL_REDIRECT" target="blank">
+    <a href="https://www.instagram.com/the_sandip___/" target="blank">
       <img
         src="https://img.icons8.com/fluency/48/null/instagram-new.png"
+        align="center"
+        height="50"
+        width="50"
+      />
+    </a>
+    <a href="https://portfolio-psi-three-60.vercel.app/" target="blank">
+      <img
+        src="https://img.icons8.com/color/48/null/circled-user-male-skin-type-4--v1.png"
         align="center"
         height="50"
         width="50"
