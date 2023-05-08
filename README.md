@@ -50,6 +50,13 @@
         height="50"
         width="50"
       />
+  <a href="#" target="blank">
+      <img
+        src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png"
+        align="center"
+        height="50"
+        width="50"
+      />
     </a>
     <a href="#" target="blank">
       <img
