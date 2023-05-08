@@ -82,13 +82,7 @@
         width="50"
       />
     </a>
-    <a href="#" target="blank">
-      <img
-        src="https://img.icons8.com/color/48/null/python--v1.png"
-        align="center"
-        height="50"
-        width="50"
-      />
+    
     </a>
     <a href="#" target="blank">
       <img
