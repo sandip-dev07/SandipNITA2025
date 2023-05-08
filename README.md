@@ -76,15 +76,13 @@
     </a>
     <a href="#" target="blank">
       <img
-        src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/null/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"
+        src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/null/external-mongodb-a-cross-platform-document-oriented-database-program-logo-                shadow-tal-revivo.png"
         align="center"
         height="50"
         width="50"
       />
-    </a>
-    
-
-    <a href="#" target="blank">
+  </a>
+   <a href="#" target="blank">
       <img
         src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png"
         align="center"
