@@ -110,7 +110,7 @@ I specialize in both front-end (HTML, CSS, JavaScript, React.js, Next.js, TypeSc
 
 <a href="https://www.cplusplus.com/" target="blank">
   <img
-    src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000"
+    src="https://img.icons8.com/?size=100&id=DUsKDDZsg8FT&format=png&color=000000"
     align="center"
     height="50"
     width="50"
