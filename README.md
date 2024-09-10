@@ -36,6 +36,15 @@ I specialize in both front-end (HTML, CSS, JavaScript, React.js, Next.js, TypeSc
   />
 </a>
 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
+  <img
+    src="https://icons8.com/icon/uJM6fQYqDaZK/typescript"
+    align="center"
+    height="50"
+    width="50"
+  />
+</a>
+
 <a href="https://tailwindcss.com/" target="blank">
   <img
     src="https://img.icons8.com/color/50/000000/tailwindcss.png"
@@ -65,7 +74,7 @@ I specialize in both front-end (HTML, CSS, JavaScript, React.js, Next.js, TypeSc
 
 <a href="https://nextjs.org/" target="blank">
   <img
-    src="https://img.icons8.com/ios/50/000000/nextjs.png"
+    src="https://icons8.com/icon/MWiBjkuHeMVq/next.js"
     align="center"
     height="50"
     width="50"
@@ -75,15 +84,6 @@ I specialize in both front-end (HTML, CSS, JavaScript, React.js, Next.js, TypeSc
 <a href="https://nodejs.org/" target="blank">
   <img
     src="https://img.icons8.com/color/50/000000/nodejs.png"
-    align="center"
-    height="50"
-    width="50"
-  />
-</a>
-
-<a href="https://expressjs.com/" target="blank">
-  <img
-    src="https://img.icons8.com/fluency/50/000000/express-js.png"
     align="center"
     height="50"
     width="50"
@@ -101,7 +101,16 @@ I specialize in both front-end (HTML, CSS, JavaScript, React.js, Next.js, TypeSc
 
 <a href="https://www.postgresql.org/" target="blank">
   <img
-    src="https://img.icons8.com/color/50/000000/postgresql.png"
+    src="https://icons8.com/icon/38561/postgresql"
+    align="center"
+    height="50"
+    width="50"
+  />
+</a>
+
+<a href="https://www.cplusplus.com/" target="blank">
+  <img
+    src="https://icons8.com/icon/pHS3eRpynIRQ/redis"
     align="center"
     height="50"
     width="50"
@@ -147,6 +156,7 @@ I specialize in both front-end (HTML, CSS, JavaScript, React.js, Next.js, TypeSc
     width="50"
   />
 </a>
+
 
 <!--
 **SandipNITA2025/SandipNITA2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
