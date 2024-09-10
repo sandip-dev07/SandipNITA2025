@@ -38,7 +38,7 @@ I specialize in both front-end (HTML, CSS, JavaScript, React.js, Next.js, TypeSc
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
   <img
-    src="https://icons8.com/icon/uJM6fQYqDaZK/typescript"
+    src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000"
     align="center"
     height="50"
     width="50"
