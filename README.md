@@ -2,7 +2,8 @@
 
 <h2 size="20">Full Stack Web Developer</h2>
 
-I’m skilled in both front-end (HTML, CSS, JavaScript, React.js, Next.js, TypeScript) and back-end technologies (Node.js, Express.js, MongoDB, PostgreSQL), as well as tools like Git, Docker,Redis, and AWS.
+I'm a passionate and skilled Full Stack Web Developer with experience building web applications using modern front-end and back-end technologies. I enjoy creating responsive, user-friendly applications and always strive to optimize for performance and scalability.
+I specialize in both front-end (HTML, CSS, JavaScript, React.js, Next.js, TypeScript) and back-end technologies (Node.js, Express.js, MongoDB, PostgreSQL), along with tools like Git, Docker, Redis, and AWS.
 
 ---
 
