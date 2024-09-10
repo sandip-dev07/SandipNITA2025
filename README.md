@@ -126,6 +126,24 @@ I specialize in both front-end (HTML, CSS, JavaScript, React.js, Next.js, TypeSc
   />
 </a>
 
+<a href="https://www.cplusplus.com/" target="blank">
+  <img
+    src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000"
+    align="center"
+    height="50"
+    width="50"
+  />
+</a>
+
+<a href="https://www.cplusplus.com/" target="blank">
+  <img
+    src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000"
+    align="center"
+    height="50"
+    width="50"
+  />
+</a>
+
 ---
 
 <h2 size="20">Socials</h2>
