@@ -74,7 +74,7 @@ I specialize in both front-end (HTML, CSS, JavaScript, React.js, Next.js, TypeSc
 
 <a href="https://nextjs.org/" target="blank">
   <img
-    src="https://icons8.com/icon/MWiBjkuHeMVq/next.js"
+    src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000"
     align="center"
     height="50"
     width="50"
@@ -101,7 +101,7 @@ I specialize in both front-end (HTML, CSS, JavaScript, React.js, Next.js, TypeSc
 
 <a href="https://www.postgresql.org/" target="blank">
   <img
-    src="https://icons8.com/icon/38561/postgresql"
+    src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000"
     align="center"
     height="50"
     width="50"
@@ -110,7 +110,7 @@ I specialize in both front-end (HTML, CSS, JavaScript, React.js, Next.js, TypeSc
 
 <a href="https://www.cplusplus.com/" target="blank">
   <img
-    src="https://icons8.com/icon/pHS3eRpynIRQ/redis"
+    src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000"
     align="center"
     height="50"
     width="50"
