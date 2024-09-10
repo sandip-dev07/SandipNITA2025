@@ -1,124 +1,151 @@
 ### Hi there 👋 I'm Sandip Sarkar
 
-  <h2 size="20">Full Stack Web Developer</h2>
-    <p></p>
-    <h2 size="20">Skills</h2>
-    <a href="#" target="blank">
-      <img
-        src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/null/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-color-tal-revivo.png"
-        align="center"
-        height="50"
-        width="50"
-      />
-    </a>
-    <a href="#" target="blank">
-      <img
-        src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-cascading-style-sheets-language-used-for-describing-the-presentation-of-a-document-logo-color-tal-revivo.png"
-        align="center"
-        height="50"
-        width="50"
-      />
-    </a>
-    <a href="#" target="blank">
-      <img
-        src="https://img.icons8.com/color/48/null/javascript--v1.png"
-        align="center"
-        height="50"
-        width="50"
-      />
-    </a>
-    <a href="#" target="blank">
-      <img
-        src="https://img.icons8.com/color/50/null/tailwindcss.png"
-        align="center"
-        height="50"
-        width="50"
-      />
-    </a>
-    <a href="#" target="blank">
-      <img
-        src="https://img.icons8.com/color/48/null/sass.png"
-        align="center"
-        height="50"
-        width="50"
-      />
-    </a>
-    <a href="#" target="blank">
-      <img
-        src="https://img.icons8.com/plasticine/50/null/react.png"
-        align="center"
-        height="50"
-        width="50"
-      />
-  <a href="#" target="blank">
-      <img
-        src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png"
-        align="center"
-        height="50"
-        width="50"
-      />
-    </a>
-    <a href="#" target="blank">
-      <img
-        src="https://img.icons8.com/color/48/null/nodejs.png"
-        align="center"
-        height="50"
-        width="50"
-      />
-    </a>
-    <a href="#" target="blank">
-      <img
-        src="https://img.icons8.com/fluency/49/null/express-js.png"
-        align="center"
-        height="50"
-        width="50"
-      />
-    </a>
-    <a href="#" target="blank">
-      <img
-        src="https://img.icons8.com/color/48/null/mongodb.png"
-        align="center"
-        height="50"
-        width="50"
-      />
-  </a>
-   <a href="#" target="blank">
-      <img
-        src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png"
-        align="center"
-        height="50"
-        width="50"
-      />
-    </a>
+<h2 size="20">Full Stack Web Developer</h2>
 
+I’m skilled in both front-end (HTML, CSS, JavaScript, React.js, Next.js, TypeScript) and back-end technologies (Node.js, Express.js, MongoDB, PostgreSQL), as well as tools like Git, Docker,Redis, and AWS.
 
- <h2 size="20">Socials</h2>
-  <a href="https://www.linkedin.com/in/sarkar-sandip/" target="blank">
-      <img
-        src="https://img.icons8.com/color/48/null/linkedin.png"
-        align="center"
-        height="50"
-        width="50"
-      />
-    </a>
-    <a href="https://www.instagram.com/the_sandip___/" target="blank">
-      <img
-        src="https://img.icons8.com/fluency/48/null/instagram-new.png"
-        align="center"
-        height="50"
-        width="50"
-      />
-    </a>
-    <a href="https://portfolio-psi-three-60.vercel.app/" target="blank">
-      <img
-        src="https://img.icons8.com/color/48/null/circled-user-male-skin-type-4--v1.png"
-        align="center"
-        height="50"
-        width="50"
-      />
-    </a>
+---
 
+<h2 size="20">Skills</h2>
 
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank">
+  <img
+    src="https://img.icons8.com/color/50/000000/html-5.png"
+    align="center"
+    height="50"
+    width="50"
+  />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank">
+  <img
+    src="https://img.icons8.com/color/50/000000/css3.png"
+    align="center"
+    height="50"
+    width="50"
+  />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
+  <img
+    src="https://img.icons8.com/color/50/000000/javascript.png"
+    align="center"
+    height="50"
+    width="50"
+  />
+</a>
+
+<a href="https://tailwindcss.com/" target="blank">
+  <img
+    src="https://img.icons8.com/color/50/000000/tailwindcss.png"
+    align="center"
+    height="50"
+    width="50"
+  />
+</a>
+
+<a href="https://sass-lang.com/" target="blank">
+  <img
+    src="https://img.icons8.com/color/50/000000/sass.png"
+    align="center"
+    height="50"
+    width="50"
+  />
+</a>
+
+<a href="https://reactjs.org/" target="blank">
+  <img
+    src="https://img.icons8.com/plasticine/50/000000/react.png"
+    align="center"
+    height="50"
+    width="50"
+  />
+</a>
+
+<a href="https://nextjs.org/" target="blank">
+  <img
+    src="https://img.icons8.com/ios/50/000000/nextjs.png"
+    align="center"
+    height="50"
+    width="50"
+  />
+</a>
+
+<a href="https://nodejs.org/" target="blank">
+  <img
+    src="https://img.icons8.com/color/50/000000/nodejs.png"
+    align="center"
+    height="50"
+    width="50"
+  />
+</a>
+
+<a href="https://expressjs.com/" target="blank">
+  <img
+    src="https://img.icons8.com/fluency/50/000000/express-js.png"
+    align="center"
+    height="50"
+    width="50"
+  />
+</a>
+
+<a href="https://www.mongodb.com/" target="blank">
+  <img
+    src="https://img.icons8.com/color/50/000000/mongodb.png"
+    align="center"
+    height="50"
+    width="50"
+  />
+</a>
+
+<a href="https://www.postgresql.org/" target="blank">
+  <img
+    src="https://img.icons8.com/color/50/000000/postgresql.png"
+    align="center"
+    height="50"
+    width="50"
+  />
+</a>
+
+<a href="https://www.cplusplus.com/" target="blank">
+  <img
+    src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"
+    align="center"
+    height="50"
+    width="50"
+  />
+</a>
+
+---
+
+<h2 size="20">Socials</h2>
+
+<a href="https://www.linkedin.com/in/sarkar-sandip/" target="blank">
+  <img
+    src="https://img.icons8.com/color/50/000000/linkedin.png"
+    align="center"
+    height="50"
+    width="50"
+  />
+</a>
+
+<a href="https://www.instagram.com/the_sandip___/" target="blank">
+  <img
+    src="https://img.icons8.com/fluency/50/000000/instagram-new.png"
+    align="center"
+    height="50"
+    width="50"
+  />
+</a>
+
+<a href="https://sandipsarkar.dev/" target="blank">
+  <img
+    src="https://img.icons8.com/color/50/000000/user-male.png"
+    align="center"
+    height="50"
+    width="50"
+  />
+</a>
 
 <!--
 **SandipNITA2025/SandipNITA2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
